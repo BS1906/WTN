@@ -13,7 +13,7 @@ class Box
 {
 public static void main(String []args)
 {
-Volume v=new Volume();
+p41 v=new p41();
 v.display();
 }
 }
